@@ -1,4 +1,4 @@
-console.log("hello");
+
 
 let apikey = "227b24b5be4c69ac2fc60a0ede5b351f";
  
